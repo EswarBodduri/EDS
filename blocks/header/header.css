@@ -9,7 +9,7 @@ header nav {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   align-items: center;
-  background-color: #000; /* black background */
+  background-color: #182e50; /* black background */
   color: white;
   padding: 1rem;
   gap: 1rem;
