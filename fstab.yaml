@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1mymVr1IDgaok1OeW9ch3Dp_oWFADMxFx
+  /: https://author-p127163-e1239520.adobeaemcloud.com/bin/franklin.delivery/EswarBodduri/EDS/main
+  type:"markup"
+  suffix:".html"
